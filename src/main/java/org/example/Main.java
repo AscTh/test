@@ -24,4 +24,5 @@ public class Main {
         Collections.sort(lineList);
         lineList.forEach(System.out::println);
     }
+
 }
