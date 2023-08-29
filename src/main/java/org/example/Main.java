@@ -9,6 +9,8 @@ import java.util.List;
 
 public class Main {
 
+//    Косяк
+
     public static void main(String[] args) throws IOException {
         String inputFile = "src/main/resources/input.txt";
         List<String> lineList = new ArrayList<>();
